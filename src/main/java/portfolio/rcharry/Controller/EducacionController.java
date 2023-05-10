@@ -17,7 +17,7 @@ import portfolio.rcharry.Entity.Educacion;
 import portfolio.rcharry.Service.EducacionService;
 
 @RestController
-@CrossOrigin(origins = "${value.environment}" )
+@CrossOrigin(origins = "https://rcharry-portfolio.web.app" )
 
 public class EducacionController {
     
