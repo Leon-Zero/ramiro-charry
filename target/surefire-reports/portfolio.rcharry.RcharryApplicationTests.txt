@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: portfolio.rcharry.RcharryApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 35.379 s - in portfolio.rcharry.RcharryApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 33.316 s - in portfolio.rcharry.RcharryApplicationTests
