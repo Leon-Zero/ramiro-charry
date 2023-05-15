@@ -5,7 +5,7 @@ Se implementa el framework SpringBoot con Himbernate para la persistencia JPA en
 
 ## ⚙ Enlace Github del [FrontEnd](https://github.com/R-charry/Portafolio-FrontEnd-ARG-Prog)
 
-El repositorio de frontend inlcuye enlace el proyecto desarrollado que conecta con el backend, además de un enlace al deploy de ambos conectados (heroku para backend, firebase para frontend y clever cloud para base de datos mysql)
+El repositorio de frontend inlcuye enlace el proyecto desarrollado que conecta con el backend, además de un enlace al deploy de ambos conectados (Render para backend, firebase para frontend y clever cloud para base de datos mysql)
 
 
 ## 🚀 [Deploy](https://portafolio-apis-backend-argprog-production.up.railway.app) del Proyecto, enlace BackEnd Railway
